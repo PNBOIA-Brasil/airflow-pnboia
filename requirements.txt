@@ -1,0 +1,2 @@
+-e git+https://github.com/PNBOIA-Brasil/remobs.git#egg=remobsqc
+-e git+https://github.com/PNBOIA-Brasil/pnboia_qc.git#egg=pnboia_qc
